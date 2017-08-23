@@ -1,0 +1,6 @@
+<?php
+//THIS FILE IS AUTO GENERATED, DO NOT MODIFY
+$mod_strings['LBL_CASES_OPPORTUNITIES_1_FROM_OPPORTUNITIES_TITLE'] = 'Opportunities';
+$mod_strings['LBL_CASES_OPPORTUNITIES_1_FROM_CASES_TITLE'] = 'Opportunities';
+$mod_strings['LBL_CASES_ACCOUNTS_1_FROM_ACCOUNTS_TITLE'] = 'Accounts';
+$mod_strings['LBL_CASES_ACCOUNTS_1_FROM_CASES_TITLE'] = 'Accounts';
